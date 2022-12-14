@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+    color: rgb(83, 75, 75);
+ }
+ img {
+    width: 200px;
+    height: 200px;
+    border: 100px;
+ } 
+ 
+ h1 {
+   font-family: sans-serif;
+ }
+ 
+ p {
+   font-family: sans-serif;
+ }
+ 
+ a {
+   font-style: sans-serif;
+ }
